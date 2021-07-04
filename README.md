@@ -1,4 +1,5 @@
-# blogs
-这是一个技术博客项目，文章在`Issues`里。
+# bung33gum/blogs
+This is a personal blog project powered by Github Issues.
 
-### 目录：
+# Table of Content
+2021.07.04: [PicoCTF-General Skills Writeups](https://github.com/bung33gum/blogs/issues/1)
